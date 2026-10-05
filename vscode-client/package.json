@@ -106,7 +106,7 @@
   },
   "dependencies": {
     "gunzip-maybe": "^1.4.2",
-    "tar-fs": "^2.1.1",
+    "tar-fs": "^3.0.0",
     "ts-md5": "^1.2.7",
     "unzip-stream": "^0.3.1",
     "vscode-languageclient": "^6.1.3",
